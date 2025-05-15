@@ -189,4 +189,4 @@ If you find a bug or want to request a feature, open an issue [here](https://git
 
 **Shashank S D**
 GitHub: [@Shashanksd1706](https://github.com/Shashanksd1706)
-LinkedIn: *(Add your LinkedIn link here for more visibility)*
+LinkedIn: *(www.linkedin.com/in/shashank-dwivedi-91508a245)*
