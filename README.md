@@ -9,7 +9,7 @@ An end-to-end machine learning web application that predicts whether a customer 
 ```
 Customer_Churn_Prediction_App/
 |
-├── app.py                        # Main Flask application script
+├── app.py                        # Main Streamlit application script
 ├── requirements.txt             # List of required Python packages
 ├── Churn_Modelling.csv          # Dataset used for training/testing
 |
